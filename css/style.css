@@ -1,26 +1,23 @@
-header
-{
-    font-family: 'Zilla Slab';
-    font-size: 2.6em;
-    font-weight: bold;
-}
-h1
-{
-    font-family: 'Zilla Slab';
-    font-size: 1.6em;
-}
-p
-{
-    font-family: 'Open Sans';
-    font-size: 1em;
+.bold {
+  font-weight: bold;
 }
 
-.p-font
-{
-    font-family: 'Open Sans';
+header {
+  font-family: 'Zilla Slab';
+  font-size: 2.6em;
+  font-weight: bold;
 }
 
-.bold
-{
-    font-weight: bold;
+h1 {
+  font-family: 'Zilla Slab';
+  font-size: 1.6em;
+}
+
+p {
+  font-family: 'Open Sans';
+  font-size: 1em;
+}
+
+.p-font {
+  font-family: 'Open Sans';
 }
